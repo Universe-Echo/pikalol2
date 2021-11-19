@@ -11,7 +11,7 @@ client.on('messageCreate', message => {
   }
 });
 
-client.login('ODczMTQ3MDA5NTgwODI2NjI0.YQ0LhQ.yhSSWAq4ihBmKAIid9TiDp6qAz4');
+client.login('token');
 
 
 const fs = require('fs');
